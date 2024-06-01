@@ -5,3 +5,4 @@ L: Rotate the dice to the Left one position. Now, the face facing up is the one 
 R: Rotate the dice to the Reft one position. Now, the face facing up is the one that was facing Left prior to the rotation.
 U: Rotate the dice Up one position. Now, the face facing up is the one that was front-facing before the rotation.
 D: Rotate the dice Down one position. Now, the face facing up is the one that was rear-facing before the rotation.
+-: Do not move the dice. Use the data from the opposite face without moving it. Only once.

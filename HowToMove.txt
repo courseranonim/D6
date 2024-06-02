@@ -1,8 +1,13 @@
 You have a dice with 6 Faces. A D6
-commands: L, R, U, D, and -. Each command rotates the dice in a specific way.
+Each face of the dice and the opposite one must add 7.
+The faces 1,2 and 3 must meet in one corner. If this corner is facing up, the numbers must be in clockwise order.
+http://www.magicmgmt.com/gary/dice/one_die_image.html
+
+
+commands: L, R, U, D, and -. Each command rotates the dice in a specific way, rotating the dice 90º.
+
 To follow the commands, the dice must be in a solid and stable position, and the selected face must be facing up.
-L: Rotate the dice to the Left one position. Now, the face facing up is the one that was facing right prior to the rotation.
-R: Rotate the dice to the Reft one position. Now, the face facing up is the one that was facing Left prior to the rotation.
+L: Rotate the dice to the one side (Left or Right). Between the two movement options, the one resulting in the smallest number facing up will be the correct one.
 U: Rotate the dice Up one position. Now, the face facing up is the one that was front-facing before the rotation.
 D: Rotate the dice Down one position. Now, the face facing up is the one that was rear-facing before the rotation.
 -: Do not move the dice. Use the data from the opposite face without moving it. Only once.

@@ -1,7 +1,7 @@
 You have a dice with 6 Faces. A D6
 Each face of the dice and the opposite one must add 7.
 The faces 1,2 and 3 must meet in one corner. If this corner is facing up, the numbers must be in clockwise order.
-http://www.magicmgmt.com/gary/dice/one_die_image.html
+Entra en este link si eres tontito y no sabes montar el dado -> http://www.magicmgmt.com/gary/dice/one_die_image.html
 
 
 To start, the dice must have the highest prime number facing up and the smallest number facing the player.

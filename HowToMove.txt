@@ -4,6 +4,7 @@ The faces 1,2 and 3 must meet in one corner. If this corner is facing up, the nu
 http://www.magicmgmt.com/gary/dice/one_die_image.html
 
 
+To start, the dice must have the highest prime number facing up and the smallest number facing the player.
 commands: L, R, U, D, and -. Each command rotates the dice in a specific way, rotating the dice 90º.
 
 To follow the commands, the dice must be in a solid and stable position, and the selected face must be facing up.
